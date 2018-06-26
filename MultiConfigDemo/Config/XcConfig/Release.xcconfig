@@ -1,0 +1,10 @@
+//
+//  Release.xcconfig
+//  MultiConfigDemo
+//
+//  Created by hans on 2018/6/16.
+//  Copyright © 2018年 hans. All rights reserved.
+//
+#include "Common.xcconfig"
+APP_DISPLAY_NAME = MC_Release
+CONFIG_FLAG = Release
